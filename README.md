@@ -9,7 +9,7 @@ Setup
 ---
 - **Clone Source**
 ```shell
-git clone https://github.com/RebirthLee/mysql_udf_http_golang.git udf
+git clone https://github.com/solarflare045/mysql_udf_http_golang udf
 cd udf
 ```
 
